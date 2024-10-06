@@ -1,0 +1,13 @@
+- Web development with Phoenix and Liveview is immensely enjoyable and fast
+
+- AI with NX, Axon, Bumblebee
+
+- Audio and Video streaming and manipulation with Membrane
+
+- CQRS and Event Sourcing with Commanded
+
+- Embedded with Nerves to make your own devices
+
+- Mobile apps with Liveview Native ( in development )
+
+- Queues, pipelines and batch processing, etc... natively or with GenStage, Broadway or Oban depending on your use case
