@@ -11,3 +11,9 @@
 - Mobile apps with Liveview Native ( in development )
 
 - Queues, pipelines and batch processing, etc... natively or with GenStage, Broadway or Oban depending on your use case
+
+- Cachex, built-in support for distributing the cache across all connected nodes in a cluster
+
+- libcluster, Horde
+
+- 
